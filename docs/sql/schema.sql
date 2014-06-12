@@ -1,0 +1,1 @@
+create database ydapp character set utf8;
